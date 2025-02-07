@@ -1,0 +1,14 @@
+[
+    {"name": "Суп", "price": 200, "category": "Первое"},
+    {"name": "Салат", "price": 150, "category": "Первое"},
+    {"name": "Стейк", "price": 500, "category": "Второе"},
+    {"name": "Рыба", "price": 400, "category": "Второе"},
+    {"name": "Торт", "price": 250, "category": "Десерт"},
+    {"name": "Мороженое", "price": 100, "category": "Десерт"},
+    {"name": "Коньяк", "price": 300, "category": "Спиртное"},
+    {"name": "Водка", "price": 250, "category": "Спиртное"},
+    {"name": "Вино", "price": 200, "category": "Спиртное"},
+    {"name": "Чай", "price": 50, "category": "Напиток"},
+    {"name": "Кофе", "price": 100, "category": "Напиток"},
+    {"name": "Сок", "price": 150, "category": "Напиток"}
+]

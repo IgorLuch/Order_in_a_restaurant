@@ -1,0 +1,59 @@
+[
+    {
+        "table_number": 2,
+        "customer_name": "Игорь",
+        "items": [
+            {
+                "name": "Салат",
+                "price": 150,
+                "category": "Первое"
+            },
+            {
+                "name": "Стейк",
+                "price": 500,
+                "category": "Второе"
+            },
+            {
+                "name": "Мороженое",
+                "price": 100,
+                "category": "Десерт"
+            },
+            {
+                "name": "Кофе",
+                "price": 100,
+                "category": "Напиток"
+            }
+        ]
+    },
+    {
+        "table_number": 3,
+        "customer_name": "Миша",
+        "items": [
+            {
+                "name": "Салат",
+                "price": 150,
+                "category": "Первое"
+            },
+            {
+                "name": "Рыба",
+                "price": 400,
+                "category": "Второе"
+            },
+            {
+                "name": "Мороженое",
+                "price": 100,
+                "category": "Десерт"
+            },
+            {
+                "name": "Чай",
+                "price": 50,
+                "category": "Напиток"
+            }
+        ]
+    },
+    {
+        "table_number": 5,
+        "customer_name": "5",
+        "items": []
+    }
+]
